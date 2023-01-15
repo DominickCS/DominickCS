@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @domsw0rld
 - 👀 I’m interested in ... automation
-- 🌱 I’m currently learning ... python
+- 🌱 I’m currently learning ... python & Go
 - 💞️ I’m looking to collaborate on ... a beginner project.
 - 📫 How to reach me - domsw0rld@outlook.com
 
