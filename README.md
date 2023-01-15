@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @opZylo
+- 👋 Hi, I’m @domsw0rld
 - 👀 I’m interested in ... automation
 - 🌱 I’m currently learning ... python
 - 💞️ I’m looking to collaborate on ... a beginner project.
