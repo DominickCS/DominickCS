@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @domsw0rld
-- 👀 I’m interested in ... automation
-- 🌱 I’m currently learning ... python & Go
-- 💞️ I’m looking to collaborate on ... a beginner project.
+- 👀 I’m interested in ... Cybersecurity, and automation projects.
+- 🌱 I’m currently learning ... Python
+- 💞️ I’m looking to collaborate on ... anything really!
 - 📫 How to reach me - domsw0rld@outlook.com
 
 <!---
