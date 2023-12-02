@@ -1,10 +1,11 @@
-- 👋 Hi, I’m @selfhostedtoast
-- 👀 I’m interested in ... learning automation, and web application development.
-- 🌱 I’m currently learning ... Python, and CS50
-- 💞️ I’m looking to collaborate on ... anything really!
-- 📫 How to reach me - dominick.smith938@gmail.com
+<p align="center"> Hi, I’m SelfHostedToast </p>
+<p align="center"> <img src="pfp.png" alt="my profile picture" width="200"/> </p>
+<hr>
 
-<!---
-domsw0rld/domsw0rld is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👀 I’m interested in becoming a Full-Stack Web Developer.
+
+- 🌱 I’m currently learning ... Python for back-end development, and HTML, CSS, & Javascript for frontend development.
+
+- 💞️ I’m looking to collaborate on anything really, feel free to reach out to me using my email below!
+
+- 📫 How to reach me - dominick.smith938@gmail.com
