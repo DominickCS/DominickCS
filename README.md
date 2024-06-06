@@ -1,4 +1,4 @@
-<p align="center"> Hi, I’m SelfHostedToast </p>
+<h1 align="center"> Hi, I’m SelfHostedToast </h1>
 <p align="center"> <img src="pfp.png" alt="my profile picture" width="200"/> </p>
 <hr>
 
