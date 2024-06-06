@@ -1,3 +1,4 @@
+<link rel="stylesheet" href="./style.css">
 <p align="center"> Hi, I’m SelfHostedToast </p>
 <p align="center"> <img src="pfp.png" alt="my profile picture" width="200"/> </p>
 <hr>
