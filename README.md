@@ -1,4 +1,4 @@
-<div align="center"
+<div align="center">
     # I am SelfHostedToast, an aspiring Network Engineer!
 </div>
 <div align="center">
