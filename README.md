@@ -9,6 +9,6 @@
 
 - :telescope: I’m working as a Data Center Technician.
 
-- :seedling: Exploring C++.
+- :seedling: Exploring NextJS.
 
 - :zap: In my free time, I like riding my mountain bike, playing the piano, and playing video games.
