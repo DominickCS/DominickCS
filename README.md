@@ -1,4 +1,4 @@
 # Dominick C. Smith
 I am Dominick C. Smith and I am a software developer located in Texas. Not all Texans are cowboys, some of us wear cowboy hats while writing code. I am interested in backend development, often spending time writing code in Java. As of late, I am learning the C programming language in hopes to better understand the underlying technology that powers my code, and to write high-performing binaries for my web development projects. Who doesn't like fast, responsive application design? I also have a knack for information security, privacy being my main motivation behind understanding the world of cybesecurity. I am hopeful that one day I'll have what it takes to stop cybercrime, one line of code at a time.
 
-Find me on [YouTube](https://www.youtube.com/@tty_dom), or on my [WWW](https://dominickcs.com)! 
+Find me on [YouTube](https://www.youtube.com/@tty_dom), or on my [WWW](https://www.dominickcs.com/)! 
